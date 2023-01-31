@@ -1,20 +1,24 @@
 
-body{background-color:#f9f9f9;
+body{
+  ;
 color:green;
 font-family:poppins;
 background-image: url("https://i.postimg.cc/wBtJBh1C/pexels-tubarones-photography-2764975.jpg");
 background-repeat: no-repeat;
 background-size: auto;
 background-attachment: fixed;
+    background-color:#f9f9f9;
 }
-p{color:blue;
+
+p{
+    color:blue;
     background-color: red;
     color:rgba(28, 74, 159, 0.601);
     font-family:poppins;
     border: 4px green;
     border-radius: 20px;
     border-top-left-radius: 0px;
-    /* box-shadow :#f9f9f9" */
+    box-shadow :#f9f9f9"
     padding: 100px;
     margin:10px;
 }

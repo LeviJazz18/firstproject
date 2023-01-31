@@ -1,6 +1,5 @@
 
 body{
-  ;
 color:green;
 font-family:poppins;
 background-image: url("https://i.postimg.cc/wBtJBh1C/pexels-tubarones-photography-2764975.jpg");
@@ -10,7 +9,7 @@ background-attachment: fixed;
     background-color:#f9f9f9;
 }
 
-p{
+/* p{
     color:blue;
     background-color: red;
     color:rgba(28, 74, 159, 0.601);
@@ -18,10 +17,10 @@ p{
     border: 4px green;
     border-radius: 20px;
     border-top-left-radius: 0px;
-    box-shadow :#f9f9f9"
-    padding: 100px;
+    box-shadow :#f9f9f9";
+    padding : 100px;
     margin:10px;
-}
+} */
 
 h1 {color:green}
 strong{color:white}

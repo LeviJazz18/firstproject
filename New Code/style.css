@@ -1,3 +1,24 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap') */
+:root {
+  --primary-color: #007af3;
+}
+body {
+  background: white;
+  margin: 0;
+  font-family: poppins;
+}
+.navbar {
+  background: white;
+  padding: 1em;
+}
+.logo {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+span {
+  color: var(--primary-color);
+}
 /* 
 body{
 color:green;
@@ -7,7 +28,6 @@ background-repeat: no-repeat;
 background-size: auto;
 background-attachment: fixed;
     background-color:#f9f9f9; */
-
 
 /* p{
     color:blue;
